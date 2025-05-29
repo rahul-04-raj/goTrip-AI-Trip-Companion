@@ -9,3 +9,4 @@ yfinance==0.2.56
 duckduckgo-search
 watchdog
 groq
+reportlab
