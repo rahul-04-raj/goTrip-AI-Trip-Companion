@@ -6,5 +6,5 @@ psutil==5.9.5
 python-dotenv>=1.0.0
 streamlit>=1.32.0
 yfinance==0.2.56
-duckduckgo-search==1.9.7
+duckduckgo-search==2.9.5
 watchdog
