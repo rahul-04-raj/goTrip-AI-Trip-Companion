@@ -1,0 +1,1 @@
+# goTrip-AI-Trip-Companion
