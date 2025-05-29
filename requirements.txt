@@ -1,11 +1,10 @@
-google-adk[database]==0.3.0
-yfinance==0.2.56
-psutil==5.9.5
-litellm==1.66.3
-google-generativeai==0.8.5
-streamlit>=1.32.0
-streamlit-components-v1>=0.1.0
 agno>=0.1.0
-duckduckgo-search
-groq
+google-adk[database]==0.3.0
+google-generativeai==0.8.5
+litellm==1.66.3
+psutil==5.9.5
 python-dotenv>=1.0.0
+streamlit>=1.32.0
+yfinance==0.2.56
+duckduckgo-search==1.9.7
+watchdog  # Recommended for Streamlit on cloud
