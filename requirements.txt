@@ -8,3 +8,4 @@ streamlit>=1.32.0
 yfinance==0.2.56
 duckduckgo-search==2.9.5
 watchdog
+groq
