@@ -9,7 +9,9 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-os.environ["GROQ_API_KEY"] = os.getenv("GROQ_API_KEY")
+GROQ_API_KEY = os.getenv("GROQ_API_KEY")
+
+# os.environ["GROQ_API_KEY"] = os.getenv("GROQ_API_KEY")
 
 def create_travel_agent():
     """Create and return a travel planning agent"""
