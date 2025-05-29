@@ -22,9 +22,3 @@ An intelligent travel planning assistant built using the **AGNO framework**, pow
 - [Groq API](https://console.groq.com/)
 - LLaMA 4
 
-## 🔐 API Key Setup
-
-1. Create a `.env` file in your root directory:
-
-   ```env
-   GROQ_API_KEY=your-api-key-here
